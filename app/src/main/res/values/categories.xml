@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="сategoriesExpenses">
+        <item>@string/category_products</item>
+        <item>@string/category_oil</item>
+        <item>Аптека</item>
+        <item>Одежда</item>
+    </array>
+
+    <array name="сategoriesIncome">
+        <item>Зарплата</item>
+        <item>Фриланс</item>
+    </array>
+
+</resources>

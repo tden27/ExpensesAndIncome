@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Расходы и доходы</string>
+    <string name="expenses_in_month">Расходы в этом месяце</string>
+    <string name="income_in_month">Доходы в этом месяце</string>
+    <string name="add_expenses">Добавить расход</string>
+    <string name="add_income">Добавить доход</string>
+    <string name="select_expense_category">Выберите категорию расхода</string>
+    <string name="select_income_category">Выберите категорию дохода</string>
+    <string name="str_input_expenses_sum">Введите сумму расхода</string>
+    <string name="add_expenses_sum">Добавить</string>
+
+
+    <string name="category_products">Продукты</string>
+    <string name="category_oil">Бензин</string>
+
+
+</resources>
